@@ -3,8 +3,8 @@
 title: Your Name
 description: subtitle | affiliations | motto
 
-baseurl:  drake-s/drake-s.github.io  #name of GitHub repository
-url: "drake-s.github.io" #custom url to be used instead of GitHub repository
+baseurl:   #name of GitHub repository
+url: "https://drake-s.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 
