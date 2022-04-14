@@ -64,4 +64,4 @@ plugins:
   - jekyll-email-protect
   - jekyll-target-blank
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
