@@ -4,10 +4,35 @@ permalink: /education/
 published: true
 ---
 
-Education page
+Education
+---------
+---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+<div style="display: flex;">
+<div>
+  <img src="/assets/images/ua.png" alt="UA" width="75"/>
+</div>
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+<div>
+  <h3> The University of Arizona </h3>
+  <h4> Bachelor of Science in Computer Science </h4>
+  <h5> May 2020 - August 2021 </h5>
+</div>
+</div>
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+---
+
+<div style="display: flex;">
+<div>
+  <img src="/assets/images/ua.png" alt="UA" width="75"/>
+</div>
+
+<div>
+  <h3> The University of Arizona </h3>
+  <h4> Bachelor of Science in Systems Engineering (with Honors) </h4>
+  <h5> August 2016 - May 2020 </h5>
+</div>
+</div>
+
+
+---

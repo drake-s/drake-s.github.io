@@ -7,10 +7,15 @@ profile:
 published: true
 ---
 
-About page
+Home
+----
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+My name is Drake Sitaraman and welcome to my personal web page!
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I graduated with a B.S. in Systems Engineering (with Honors) in May 2020
+and a B.S. in Computer Science in August 2021, both from the University of Arizona.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I was the team leader for my Engineering senior capstone project. I led
+my team in this two semester-long project to create a medical imaging software.
+We won an award for Best Implementation for Agile Methodology out of all
+senior design teams. 
