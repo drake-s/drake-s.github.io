@@ -4,10 +4,45 @@ permalink: /contact/
 published: true
 ---
 
-Contact page
+Contact
+-------
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Email me <a href = "mailto:&#100;&#114;&#097;&#107;&#101;&#115;&#105;&#116;&#097;&#114;&#097;&#109;&#097;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">here </a>
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+
+<!--
+<form action="" method="POST">
+  <label>
+    Name:
+    <input type="name" name="name" required>
+  </label>
+
+  <br /> <br />
+
+  <label>
+    Email:
+    <input type="email" name="email" required>
+  </label>
+
+  <br /> <br />
+
+  <label>
+    Subject:
+    <input name="subject" required>
+  </label>
+
+  <br /> <br />
+
+  <label>
+    Message:
+    <br />
+    <textarea name="message" rows="10" cols="50" required></textarea>
+  </label>
+
+  <br /> <br />
+
+
+  <button type="submit">Send</button>
+</form>
+-->

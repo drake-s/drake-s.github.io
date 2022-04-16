@@ -1,13 +1,31 @@
 ---
 layout: post
-permalink: /experience/ 
+permalink: /experience/
 published: true
 ---
 
-Experience page
+Experience
+---------
+---
+[![UA](/assets/images/ua.png){:width="75" style="float: left; padding-right:10px;" }](https://acabi.uahs.arizona.edu/)
+#### Arizona Center for Accelerated Biomedical Innovation
+##### Team Leader, Visual "Natural Language" Processing of Medical Images
+###### August 2019 - May 2020
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+---
+[![SabinoDB](/assets/images/sabino.jpg){:width="75" style="float: left; padding-right:10px;" }](https://www.sabinodb.com/)
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+#### SabinoDB
+##### Data Science Intern
+###### June 2019 - August 2019
+
+---
+
+[![UA](/assets/images/ua.png){:width="75" style="float: left; padding-right:10px;"}]()
+#### University of Arizona, Transportation Research Institute
+##### Undergraduate Research Assistant
+###### January 2017 - June 2018
+
+
+---
